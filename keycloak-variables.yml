@@ -1,0 +1,7 @@
+keycloak_url: "xxxxxxx"
+keycloak_realm: "xxxxxxx"
+keycloak_client_name: "my-client"
+keycloak_client_redirect_uri: "http://my-client.example.com/callback"
+keycloak_admin_username: "xxxx"
+keycloak_admin_password: "xxxxx"
+
